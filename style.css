@@ -1,0 +1,47 @@
+
+   body{
+        background-color:white;
+        color:green;
+      }
+
+  #heading{
+       margin-left: 50%;
+      }
+  #nav{
+        height: 40px;
+        background-color: red;
+        border:5px solid green;
+  }
+.menu{
+        margin: 0px 0px 0px 5px;
+        padding:0px;
+      }
+
+      .menu li{
+        list-style-type: none;
+        float: left;
+        margin-right: 15px;
+        padding:12px;
+        border-right-width: 2px;
+        border-right-color:white;
+        border-right-style: solid;
+      }
+
+       .menu li:last-child{
+        border-right:none;
+
+
+       }
+
+      .menu li a{
+        color:white;
+        text-decoration: none;
+        font-weight: bold;
+        text-transform: uppercase;
+
+      }
+ 
+      .menu li a:hover{
+        background-color: green;
+         display: block;
+     
