@@ -33,18 +33,6 @@
 
        }
 
-.container{
-	background-image: url(../images/google.png);
-	background-repeat: repeat-x;
-	width: 600px;
-	height: 800px;
-	margin: auto;
-	background-position: center;
-	background-attachment: fixed;
-	background-attachment: scroll;
-	background-size: contain;
-}
-
       .menu li a{
         color:white;
         text-decoration: none;
